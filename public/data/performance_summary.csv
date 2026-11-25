@@ -1,0 +1,4 @@
+Model,Helpfulness,Relevance,Clarity,Instruction Following,Factual Accuracy,Overall Average
+Base Model,4.6,3.6,4.6,3.8,3.8,4.08
+DPO Beta 0.1,4.0,4.0,4.2,4.4,4.0,4.12
+DPO Beta 0.2,4.4,3.8,3.8,4.0,4.0,4.0
